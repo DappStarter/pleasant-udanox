@@ -1,0 +1,15 @@
+{
+    "name": "Silisium",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Silisium",
+        "/category/asset_value_tracking/token/symbol": "SIL",
+        "/category/asset_value_tracking/token/decimals": "10",
+        "/category/asset_value_tracking/token/supply": "50000000",
+        "/category/collection/entity": true
+    }
+}
